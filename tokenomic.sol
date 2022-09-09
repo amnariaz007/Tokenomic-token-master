@@ -4,7 +4,7 @@
 
 pragma solidity 0.8.4;
 
-
+//##it is a tokenomic token
 
 
 // 3
@@ -1276,3 +1276,5 @@ contract Trannsplantcoin is Context, IERC20, Ownable {
     }
     
 }
+
+//##end of the token factory contract
